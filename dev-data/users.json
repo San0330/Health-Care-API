@@ -1,0 +1,135 @@
+[
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [83.4655221, 27.6610071],
+      "address": "Butwal"
+    },
+    "role": "Admin",
+    "created_at": "2020-03-29T12:52:55.016Z",
+    "working_hours": [],
+    "working_weeks": [],
+    "active": true,
+    "_id": "5e809af7d5180f40f9982000",
+    "citizen_id": "12345678",
+    "contact": "0123456789",
+    "password": "password",
+    "password_confirm": "password",
+    "name": "Santosh Neupane",
+    "email": "admin@gmail.com",
+    "__v": 0,
+    "dob": "2014-10-14T18:15:00.000Z",
+    "image": "noimage.jpeg",
+    "gender": "male",
+    "id": "5e809af7d5180f40f9982000"
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [83.466694, 27.697549],
+      "address": "Butwal"
+    },
+    "role": "Doctor",
+    "created_at": "2020-05-05T13:47:32.059Z",
+    "working_hours": [
+      { "start": "12:00", "end": "15:00" },
+      { "start": "16:00", "end": "17:00" }
+    ],
+    "working_weeks": [1, 2, 5],
+    "active": true,
+    "_id": "5eb170c63e38dc2e3ee6f5cf",
+    "citizen_id": "mycitizenid",
+    "image": "user-5ea6d00853e7d33bb0e88cdb-1588599065733.jpeg",
+    "contact": "000000000",
+    "password": "password",
+    "password_confirm": "password",
+    "name": "Dr Bhupendra",
+    "email": "drbhupendra@gmail.com",
+    "dob": "2010-12-12T00:00:00.000Z",
+    "field": "Radiologist",
+    "__v": 0,
+    "id": "5eb170c63e38dc2e3ee6f5cf"
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [83.466877, 27.7012004],
+      "address": "Butwal"
+    },
+    "role": "Doctor",
+    "created_at": "2020-05-05T13:47:32.059Z",
+    "working_hours": [
+      { "start": "12:00", "end": "15:00" },
+      { "start": "16:00", "end": "17:00" }
+    ],
+    "working_weeks": [1, 2, 5],
+    "active": true,
+    "_id": "5eb171bc3e38dc2e3ee6f5d1",
+    "citizen_id": "mycitizenid",
+    "image": "user-5eb171bc3e38dc2e3ee6f5d1-1588687573223.jpeg",
+    "contact": "000000000",
+    "password": "password",
+    "password_confirm": "password",
+    "name": "Dr Hemanta",
+    "email": "drhemanta@gmail.com",
+    "dob": "2010-12-11T18:15:00.000Z",
+    "field": "Dentist",
+    "__v": 0,
+    "id": "5eb171bc3e38dc2e3ee6f5d1"
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [83.391678, 27.680981],
+      "address": "Butwal"
+    },
+    "role": "Doctor",
+    "created_at": "2020-05-05T13:47:32.059Z",
+    "working_hours": [
+      { "start": "12:00", "end": "15:00" },
+      { "start": "16:00", "end": "17:00" }
+    ],
+    "working_weeks": [1, 2, 5],
+    "active": true,
+    "_id": "5eb172533e38dc2e3ee6f5d4",
+    "citizen_id": "mycitizenid",
+    "image": "user-5e8a10109658f74014f6e15a-1588599200954.jpeg",
+    "contact": "000000000",
+    "password": "password",
+    "password_confirm": "password",
+    "name": "Dr Radha",
+    "email": "drradha@gmail.com",
+    "dob": "2010-12-12T00:00:00.000Z",
+    "field": "Nutritionist",
+    "__v": 0,
+    "id": "5eb172533e38dc2e3ee6f5d4"
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [85.31184, 27.724304],
+      "address": "Kathmandu"
+    },
+    "role": "Doctor",
+    "created_at": "2020-05-05T13:47:32.059Z",
+    "working_hours": [
+      { "start": "12:00", "end": "15:00" },
+      { "start": "16:00", "end": "17:00" },
+      { "start": "18:00", "end": "20:00" }
+    ],
+    "working_weeks": [1, 2, 5],
+    "active": true,
+    "_id": "5eb177fa3e38dc2e3ee6f5d5",
+    "citizen_id": "mycitizenid",
+    "image": "noimage.jpeg",
+    "contact": "000000000",
+    "password": "password",
+    "password_confirm": "password",
+    "name": "Dr Amar",
+    "email": "dramar@gmail.com",
+    "dob": "2010-12-12T00:00:00.000Z",
+    "field": "Neurologist",
+    "__v": 0,
+    "id": "5eb177fa3e38dc2e3ee6f5d5"
+  }
+]

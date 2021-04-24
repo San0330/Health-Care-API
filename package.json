@@ -1,0 +1,26 @@
+{
+  "name": "health_care_api",
+  "version": "1.0.0",
+  "description": "Backend API for final year project on Mobile Health Care system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server",
+    "start": "NODE_ENV=production node server"
+  },
+  "author": "San Neupane",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.11",
+    "multer": "^1.4.2",
+    "sharp": "^0.25.2",
+    "validator": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

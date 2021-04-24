@@ -1,0 +1,42 @@
+[
+  {
+    "image": "benazepril.jpg",
+    "_id": "5e43b166c83ff034c5bad64a",
+    "description": "Products for good heart",
+    "title": "Cardio",
+    "__v": 0,
+    "id": "5e43b166c83ff034c5bad64a"
+  },
+  {
+    "image": "aspirin.jpg",
+    "_id": "5e43b166c83ff034c5bad64b",
+    "description": "Products for first aids",
+    "title": "First Aids",
+    "__v": 0,
+    "id": "5e43b166c83ff034c5bad64b"
+  },
+  {
+    "image": "multivites.jpg",
+    "_id": "5e43b166c83ff034c5bad64c",
+    "description": "Products during pregnancy",
+    "title": "Pregnancy Kits",
+    "__v": 0,
+    "id": "5e43b166c83ff034c5bad64c"
+  },
+  {
+    "image": "ghomsons.jpg",
+    "_id": "5e43b166c83ff034c5bad64d",
+    "description": "Product for proper care of child",
+    "title": "Baby Care",
+    "__v": 0,
+    "id": "5e43b166c83ff034c5bad64d"
+  },
+  {
+    "image": "medicine.jpg",
+    "_id": "5e43b166c83ff034c5bad64e",
+    "description": "Product for proper nutrition",
+    "title": "Nutritioin",
+    "__v": 0,
+    "id": "5e43b166c83ff034c5bad64e"
+  }
+]
