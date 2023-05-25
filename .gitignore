@@ -1,7 +1,6 @@
 node_modules
 config.env
 test.json
-public/images
 .metals/metals.h2.db
 .metals/metals.lock.db
 .metals/metals.log
